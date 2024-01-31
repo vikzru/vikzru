@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikzru
-- 👀 I’m interested in Computer Science, Statistics and maybe SWE
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Computer Science, Statistics
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me - don't
 
